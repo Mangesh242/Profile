@@ -1,0 +1,16 @@
+.IconStyle{
+    color:white;
+    padding: 20px;
+  
+  }
+  .projectIconStyle{
+    color:black;
+    background-color: #c6c6c8;
+    border-radius:29px;
+    padding: 16px;
+    height: 4%;
+    width: 4%;
+    cursor: pointer;
+  }
+
+  
