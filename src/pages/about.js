@@ -1,8 +1,11 @@
 import React from 'react';
+import "./about.css";
 export default function about(){
     return(
-        <div className="backgroundProp">
-            <h1>About Page</h1>
+        <div >
+              <div className="mainContainer">
+
+                  </div>      
         </div>
     )
 }

@@ -1,5 +1,22 @@
 .backgroundProp{
-    height:100vh;
+    /* height:100vh; */
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
+@media only screen and (min-width: 600px) {
+  
+
+    .showWork{
+      display: none;
+    }
+
+    .ball_wrap {
+        position: relative;
+        /* margin: 150px; */
+        width: 90px;
+      }
+
+      
+    
+  } 

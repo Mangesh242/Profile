@@ -10,3 +10,13 @@
     margin-left: -70px;
   }
   
+  @media only screen and (max-width: 600px) {
+    .croppeimageproperties {
+      width: 40vh; /* width of container */
+      height: 46vh; /* height of container */
+      object-fit: cover;
+      object-position: 20% 10%; /* try 20px 10px */ 
+      border-radius: 300px;
+      margin-left: -70px;
+    }
+  }
