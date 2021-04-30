@@ -1,0 +1,64 @@
+.blogsContainer{
+    height:100%;
+    width: 80%;
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.blogsHeader{
+    height: 100px;
+    box-shadow: 2px solid black;
+    align-items: center;
+    align-content: center;
+}
+
+.blogsHeader > h1{
+    font-size: 34px;
+}
+
+.iconProperties{
+    height: 60px;
+    width: 60px;
+    border-radius: 21px;
+}
+.blogsBody{
+    padding: 10px;
+}
+
+.blogsBody > img{
+    width: 100%;
+}
+
+.blogsBody>p{
+    padding: 10px;
+    font-size: 24px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+.tagsContainer{
+    display: flex;
+    justify-content: center;
+}
+.tags{
+    background-color: #c6c6c6;
+    width: fit-content;
+    padding: 8px;
+    margin: 10px;
+}
+
+.socialIcons{
+    display: flex;
+}
+
+
+.socialIconsPartOne{
+flex: 1;
+cursor: pointer;
+}
+.socialIconsPartTwo{
+
+ cursor: pointer;
+}
+

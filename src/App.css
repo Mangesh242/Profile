@@ -5,10 +5,13 @@
 .header{
   background-color:#434348;
   width: 100%;
-
 }
 .backgroundProp{
   /* height:100vh; */
   display: grid;
   grid-template-columns: 50% 50%;
+}
+
+.breadCrumb{
+  color: white;
 }
